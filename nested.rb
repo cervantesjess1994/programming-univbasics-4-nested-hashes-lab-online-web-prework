@@ -106,7 +106,6 @@ def changing_alan
 		 alan_kay[:known_for] = "GUI"
      alans_new_info = "GUI"
 
-
 end
 
 def adding_to_dennis
